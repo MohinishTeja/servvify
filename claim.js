@@ -75,21 +75,27 @@ const abi =[
 async function pay() {
 
 		var web3=new Web3(window.ethereum)
-
+	
 		await window.ethereum.enable()
 		
 
-		contract = new web3.eth.Contract(abi,matic)
+		contract = new web3.eth.Contract(abi,ropsten)
 
 
         var paymentAddress = document.getElementById("address").value;
         var weight = document.getElementById("weight").value;
         var category = document.getElementById("type").value;
 
-        const accounts = await web3.eth.getAccounts()
+		var addressq = web3.eth.ens.getAddress('ethereum.eth');
+		console.log(paymentAddress);
+		console.log(typeof paymentAddress);
+		console.log(addressq);
+		console.log(typeof addressq);
+        const accounts = await web3.eth.getAccounts();
+
 
         
-        contract.methods.payout(paymentAddress,weight,category).send({from:accounts[0]}) 
+        contract.methods.payout(a1,weight,category).send({from:accounts[0]}) 
 
 
 } 
