@@ -1,0 +1,265 @@
+body{
+	background-color: rgb(250, 249, 250);
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(248, 203, 212);
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: rgb(250 249 250) 0px 0px 5px inset;
+    border-radius: 10px;
+}
+
+
+
+
+.navbar {
+	font-family: 'Fredoka One', cursive;
+	padding-top: 1.5em;
+    padding-bottom: 1em;
+	color: rgb(15, 68, 106);
+    background-color: #fff;
+  font-size: 12pt;
+  font-family: "Fredoka One", cursive;
+  border:none;
+  margin-bottom: 0;
+	border-bottom-width: 2px;
+	border-bottom-style:solid;
+	border-bottom-color:rgba(133,133,133,0.3);
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background-color: white;
+		color: black;
+}
+
+.navbar-default .navbar-brand
+	 {
+    color: black;
+		
+	}
+	.navbar-default .navbar-nav>li>a{
+		color:rgb(15, 68, 106);
+		font-size:18pt;
+	}
+	.navbar-brand {
+		font-weight: 700;
+		font-size: 1.25em;
+		letter-spacing: 3px;
+	}
+
+
+.container-fluid {
+	background-color: #fff;
+}
+
+.navbar-toggle {
+	border: none;
+}
+
+.icon-bar {
+	color: black;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+
+
+.title_master{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 850px;
+}
+
+.title_slave{
+	height: 185px;
+    -webkit-box-align: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+	background-image: url(mu1.png), url(mu3.png);
+    background-position: left center, right center;
+	background-size: 75px;
+    padding-top: 0px;
+    margin-bottom: auto;
+}
+
+.title_1{
+	color: rgb(15, 68, 106);
+    font-size: 56px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    line-height: 1.1;
+    letter-spacing: 0.1rem;
+    font-family: "Fredoka One", cursive;
+}
+
+.title_2{
+	color: rgb(101, 135, 159);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: "Fredoka One", cursive;
+	
+}
+
+
+
+
+
+
+.content1_master{
+	max-width: 91vw;
+    margin: auto;
+    display: grid;
+    gap: 0px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas:
+        "large smallA"
+        "large smallB";
+}
+
+.content1_slave_left{
+	grid-row-start: large;
+    grid-column-start: large;
+    grid-row-end: large;
+    grid-column-end: large;
+}
+
+.content1_slave_left_1{
+	height: 93%;
+	background-color: rgb(255, 255, 255);
+    border-radius: 32px;
+    overflow: hidden;
+    position: relative;
+    margin: 16px 30px;
+    box-shadow: rgb(248 203 212) 0px 2px 30px;
+    background-repeat: no-repeat;
+    background-image: url(fruits.svg);
+    background-position: right -16px bottom -33px;
+}
+
+
+.content1_slave_left_heading{
+
+	background: linear-gradient(170deg, rgb(248, 203, 212) 0%, rgb(191, 238, 248) 100%);
+    padding: 20px 60px 20px 26px;
+    font-size: 24pt;
+	font-family: "Fredoka One", cursive;
+    font-weight: 850;
+    color: rgb(15, 68, 106);
+}
+
+
+.content1_slave_left_c1{
+	font-size: 24pt;
+    color: rgb(0, 14, 26);
+    padding: 32px 60px 42px 22px;
+	font-family: Milliard, sans-serif;
+    font-weight: 850;
+
+}
+
+.content1_slave_left_c1_1{
+	padding-bottom: 6px;
+	font-size: 13pt;
+	font-family: "Fredoka One", cursive;
+	color: rgb(187, 187, 187);
+}
+
+.content1_slave_r1{
+	grid-row-start: smallA;
+    grid-column-start: smallA;
+    grid-row-end: smallA;
+    grid-column-end: smallA;
+}
+
+
+.content1_slave_r1_1{
+	height: 83%;
+	background-color: rgb(255, 255, 255);
+    border-radius: 32px;
+    overflow: hidden;
+    position: relative;
+    margin: 16px 30px;
+	margin-bottom: 0;
+    box-shadow: rgb(248 203 212) 0px 2px 30px;
+    background-repeat: no-repeat;
+    background-image: url(cherry.svg);
+    background-position: right -32px bottom -76px;
+}
+
+	
+.content1_slave_r1_heading{
+	background: linear-gradient(170deg, rgb(248, 203, 212) 0%, rgb(191, 238, 248) 100%);
+    padding: 20px 60px 20px 26px;
+    font-size: 24pt;
+	font-family: Milliard, sans-serif;
+    font-weight: 850;
+    color: rgb(15, 68, 106);
+}
+
+.content1_slave_r1_c1{
+	font-size: 24pt;
+    color: rgb(0, 14, 26);
+    padding: 32px 60px 42px 22px;
+	font-family: Milliard, sans-serif;
+    font-weight: 850;
+}
+
+
+.content1_slave_r2{
+	grid-row-start: smallB;
+    grid-column-start: smallB;
+    grid-row-end: smallB;
+    grid-column-end: smallB;
+}
+
+
+.content1_slave_r2_1{
+	background-color: rgb(255, 255, 255);
+    border-radius: 32px;
+    overflow: hidden;
+    position: relative;
+    margin: 16px 30px;
+	margin-top: 0;
+    box-shadow: rgb(248 203 212) 0px 2px 30px;
+    background-repeat: no-repeat;
+    background-image: url(strawberry.svg);
+    background-position: right -24px bottom -46px;
+}
+
+	
+.content1_slave_r2_heading{
+	background: linear-gradient(170deg, rgb(248, 203, 212) 0%, rgb(191, 238, 248) 100%);
+    padding: 20px 60px 20px 26px;
+    font-size: 24pt;
+	font-family: Milliard, sans-serif;
+    font-weight: 850;
+    color: rgb(15, 68, 106);
+}
+
+.content1_slave_r2_c1{
+	font-size: 24pt;
+    color: rgb(0, 14, 26);
+    padding: 32px 60px 42px 22px;
+	font-family: Milliard, sans-serif;
+    font-weight: 850;
+}
