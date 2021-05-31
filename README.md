@@ -1,7 +1,7 @@
 <p align="center">
 
 
-  <h3 align="center">Servvify</h3>
+  <h1 align="center">Servvify</h1>
 
   <p align="center">
     Decentralised rewards and payments application for all Users
@@ -9,7 +9,7 @@
     <a href="https://github.com/MohinishTeja/servvify"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://youtu.be/IkA6MlfwPXM">View Demo</a>
+    <a href="https://youtu.be/IkA6MlfwPXM">Video Demo</a>
     ·
     <a href="https://mohinishteja.github.io/servvify/">View DApp</a>
   </p>
@@ -107,3 +107,8 @@
 <img src="img/Screenshot (1146).png" height="40%" width="40%">
 <img src="img/Screenshot (1150).png" height="40%" width="40%" >
 <img src="img/Screenshot (1149).png" height="40%" width="40%">
+<p float="left">
+  <img src="img/Screenshot (1152).png" width="100" />
+  <img src="img/Screenshot (1146).png" width="100" /> 
+  
+</p>
