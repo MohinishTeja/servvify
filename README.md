@@ -4,7 +4,7 @@
   <h1 align="center">Servvify</h1>
 
   <p align="center">
-    Decentralised rewards and payments application for all Users
+    Decentralised rewards and payments application for all by government.
     <br />
     <a href="https://github.com/MohinishTeja/servvify"><strong>Explore the docs »</strong></a>
     <br />
@@ -104,9 +104,9 @@
 
 #  <a name="gallery"></a> Gallery
 <p align="center">
-<img src="img/Screenshot (1152).png" height="40%" width="40%" >
-<img src="img/Screenshot (1146).png" height="40%" width="40%" >
-<img src="img/Screenshot (1150).png" height="40%" width="40%" >
-<img src="img/Screenshot (1149).png" height="40%" width="40%" >
- </p>
+<img src="img/Screenshot (1152).png" height="45%" width="45%" >
+<img src="img/Screenshot (1146).png" height="45%" width="45%" >
+<img src="img/Screenshot (1150).png" height="45%" width="45%" >
+<img src="img/Screenshot (1149).png" height="45%" width="45%" >
+</p>
 
