@@ -13,12 +13,12 @@
    - Ecogift
    - Pay
    
-   # Ecogift
-   Ecogift is a reward distribution page inside Servvify for waste management. Idea is Government spends lot of money and resources to manage waste daily. We can drastically cut down this cost if we properly reuse,recycle waste. This can happen if waste is dumped categorically like All plastic in one bin, Metal in another bin, Degradable waste in other bin and so on. If we can segregate waste at User level itself it greatly saves money on logistics and processing for governments. 
+&nbsp; &nbsp; # Ecogift
+&nbsp; &nbsp; &nbsp; &nbsp;Ecogift is a reward distribution page inside Servvify for waste management. Idea is Government spends lot of money and resources to manage waste daily. We can drastically cut down this cost if we properly reuse,recycle waste. This can happen if waste is dumped categorically like All plastic in one bin, Metal in another bin, Degradable waste in other bin and so on. If we can segregate waste at User level itself it greatly saves money on logistics and processing for governments. 
    
-   But people will be reluctant to dump categorically. This is where we can reward them some crypto so that they can feel like this little act can help them earn something. Government can provide several services, paying bills option with this reward which brings lot of People onboard. Everything is fine but how do we reward them quickly, without change in earnings in middle? This is where Smart Contracts come in. I have included a smart contract to automate reward distribution once User dumps categorically. This can be observed in Video.
+&nbsp; &nbsp; &nbsp; &nbsp;But people will be reluctant to dump categorically. This is where we can reward them some crypto so that they can feel like this little act can help them earn something. Government can provide several services, paying bills option with this reward which brings lot of People onboard. Everything is fine but how do we reward them quickly, without change in earnings in middle? This is where Smart Contracts come in. I have included a smart contract to automate reward distribution once User dumps categorically. This can be observed in Video.
    
-   Flow of this shall be
+ &nbsp; &nbsp; &nbsp; &nbsp;Flow of this shall be
       - User enters his address( but difficult for newbies. this is where we intriduce ENS)
       - Enters weight and type of waste(manual currently but can be automated in real world deployment).
       - Gets Paid!
