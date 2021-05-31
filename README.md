@@ -1,5 +1,7 @@
 # Servvify #
-
+<center>
+<a href="https://youtu.be/rbFLfRmnEDk"><strong>View Proof of Concept Demo</strong></a>
+</center>
 ### Decentralised Application by Government to offer various public services
 
 
@@ -48,5 +50,12 @@
 
 ## How I built it
 &nbsp;&nbsp;&nbsp;&nbsp;Entire DApp frontend is built using mainly JS and HTML. Smart Contracts are written in Solidity and deployed through Polygon network for high scalability. ENS is used for eliminating addresses and finally best feature **Ramp** is used to buy crypto in Servvify itself without going out exchanges like Coinbase, Binance.
+**Technologies used **
+* Polygon
+* Ramp
+* ENS
+* JS
+* Solidity
+
 
    
