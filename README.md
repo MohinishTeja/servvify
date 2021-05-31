@@ -29,8 +29,8 @@
 
  &nbsp; &nbsp; &nbsp; &nbsp;Flow of this shall be<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - User enters his address( but difficult for newbies. this is where we introduce ENS)<br>
- &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If Balance is sufficient he can directly pay.
- &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If not, He can buy some crypto right there using **Ramp**
+ &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If Balance is sufficient he can directly pay.<br>
+ &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If not, He can buy some crypto right there using **Ramp**<br>
  
 ### How is this Newbie friendly?
    
