@@ -23,4 +23,14 @@
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - Enters weight and type of waste(manual currently but can be automated in real world deployment).<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - Gets Paid!<br>
   
+# Pay
+&nbsp; &nbsp; &nbsp; &nbsp;People can use the rewards claimed from Ecogift or their own crypto tokens to pay for various services offered by government. This can bring mass adoption among people. In this project we'll specifically use a example of **Recharging Metro Rail Card**
+
+
+ &nbsp; &nbsp; &nbsp; &nbsp;Flow of this shall be<br>
+ &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - User enters his address( but difficult for newbies. this is where we introduce ENS)<br>
+ &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If Balance is sufficient he can directly pay.
+ &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If not, He can buy some crypto right there using **Ramp**
+ 
+### How is this Newbie friendly?
    
