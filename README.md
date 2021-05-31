@@ -9,7 +9,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;**Servvify** is a devcentralised application by government/corporations to offer various rewards, services to people using Blockchain and cryptocurrency. This DApp is designed for people of all levels of expertise, ages. 
 
 &nbsp; &nbsp; &nbsp; &nbsp;Blockchain and Crypto newbies can easily use this DApp without much efforts. Main bottle neck problems for crypto and blockchain mass adoption are requirements like Wallet, Huge alphanumeric address, Gas fee, Transaction speed and buying crypto in the first place. Solutions to all these key issues are addressed in this DApp thus making it **frinedly for newbies and even experienced ones**.
-<img src="img/test.png" >
+<img src="img/Screenshot (1145).png" >
 
 ## Features of Servvify
 &nbsp; &nbsp; &nbsp; &nbsp;Servvify is a proof of concept of how government's can introduce blockchain and crypto based applications to larger audience from different backgrounds. In this DApp specifically I have implemented 2 features for reward distribution and payments.
