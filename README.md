@@ -26,6 +26,7 @@
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - User enters his address( but difficult for newbies. this is where we introduce ENS)<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - Enters weight and type of waste(manual currently but can be automated in real world deployment).<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - Gets Paid!<br>
+ <img src="img/Screenshot (1147).png" >
   
 # Pay
 &nbsp; &nbsp; &nbsp; &nbsp;People can use the rewards claimed from Ecogift or their own crypto tokens to pay for various services offered by government. This can bring mass adoption among people. In this project we'll specifically use a example of **Recharging Metro Rail Card**
@@ -35,6 +36,7 @@
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - User enters his address( but difficult for newbies. this is where we introduce ENS)<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If Balance is sufficient he can directly pay.<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If not, He can buy some crypto right there using **Ramp**<br>
+ <img src="img/Screenshot (1146).png" >
  
 ## How is this Newbie friendly?
 &nbsp;&nbsp;&nbsp;&nbsp;**Clean and minimalistic UI with best sketches is used to build frontend. This ensures new users doesn't get lost or feel too complex to use Servvify**. Utmost care is taken for Clean and best UI possible. Any User from age of 13 to age of 70 can easily use Servvify. But first let me tell you some problems any user has when entering into Crypto and Blockchain.
@@ -61,7 +63,7 @@
 | 3. ENS                                     | Eliminates remembering comples addresses for new users             |
 | 4. UI                                      | Simple and Minimalistic UI with clear instructions across Servvify |
 
-
+<img src="img/Screenshot (1152).png" >
 ### 0xHack Bounties
 
 1. [🏆 0xHack Adoption Bounty: 💲3000 DAI - Best Crypto-Newbie Friendly App](https://gitcoin.co/issue/RampNetwork/0xHack/1/100025724)
