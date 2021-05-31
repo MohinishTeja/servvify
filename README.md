@@ -66,10 +66,3 @@
 
 <img src="img/Screenshot (1152).png" >
 <img src="img/Screenshot (1146).png" >
-### 0xHack Bounties
-
-1. [🏆 0xHack Adoption Bounty: 💲3000 DAI - Best Crypto-Newbie Friendly App](https://gitcoin.co/issue/RampNetwork/0xHack/1/100025724)
-2. [🏆 0xHack Adoption Bounty: 💲1000 DAI - 2nd Best Crypto-Newbie Friendly App](https://gitcoin.co/issue/RampNetwork/0xHack/2/100025725)
-3. [🏆 0xHack Adoption Bounty: 5x 💲200 DAI - Application Using Ramp](https://gitcoin.co/issue/RampNetwork/0xHack/3/100025726)
-4. 
-   
