@@ -38,7 +38,9 @@
 <br>
 <br>
 <br>
+<p align="center">
 <img src="img/Screenshot (1145).png" width="70%" style="margin-left:10%;">
+</p>
 
 #  <a name="features"></a>Features of Servvify
 &nbsp; &nbsp; &nbsp; &nbsp;Servvify is a proof of concept of how government's can introduce blockchain and crypto based applications to larger audience from different backgrounds. In this DApp specifically I have implemented 2 features for reward distribution and payments.
@@ -56,7 +58,7 @@
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - Gets Paid!<br>
  <br>
  <p align="center">
- <img src="img/Screenshot (1147).png" height="50%" width="50%">
+ <img src="img/Screenshot (1147).png" height="60%" width="60%">
   </p>
 # Pay
 &nbsp; &nbsp; &nbsp; &nbsp;People can use the rewards claimed from Ecogift or their own crypto tokens to pay for various services offered by government. This can bring mass adoption among people. In this project we'll specifically use a example of **Recharging Metro Rail Card**
@@ -84,7 +86,7 @@
 <br>
 <br>
 <p align="center">
-<img src="img/Screenshot (1153).png" height="50%" width="50%">
+<img src="img/Screenshot (1153).png" height="60%" width="60%">
 </p>
 
 #  <a name="built"></a>How I built it
@@ -110,6 +112,9 @@
 
 #  <a name="gallery"></a> Gallery
 <p align="center">
+  
+<img src="img/Screenshot (1145).png" width="60%">
+<img src="img/Screenshot (1147).png" height="60%" width="60%">
 <img src="img/Screenshot (1152).png" height="60%" width="60%" >
 <img src="img/Screenshot (1146).png" height="60%" width="60%" >
 <img src="img/Screenshot (1150).png" height="60%" width="60%" >
