@@ -64,5 +64,5 @@
 | 3. ENS                                     | Eliminates remembering comples addresses for new users             |
 | 4. UI                                      | Simple and Minimalistic UI with clear instructions across Servvify |
 
-<img src="img/Screenshot (1152).png"height="50%" width="50%" >
+<img src="img/Screenshot (1152).png" height="50%" width="50%" >
 <img src="img/Screenshot (1146).png" height="50%" width="50%">
