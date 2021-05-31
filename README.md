@@ -32,5 +32,21 @@
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If Balance is sufficient he can directly pay.<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If not, He can buy some crypto right there using **Ramp**<br>
  
-### How is this Newbie friendly?
+## How is this Newbie friendly?
+&nbsp;&nbsp;&nbsp;&nbsp;**Clean and minimalistic UI with best sketches is used to build frontend. This ensures new users doesn't get lost or feel too complex to use Servvify**. Utmost care is taken for Clean and best UI possible. Any User from age of 13 to age of 70 can easily use Servvify. But first let me tell you some problems any user has when entering into Crypto and Blockchain.
+* Buy Crypto in firstplace using Fiat
+* Remember/Store complex Addresses
+* Transfer crypto from exchanges to Wallet
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;All of these are major bottle necks for mass adoption. Servvify has solutions to all of these problems.
+* People can buy Crypto sing **RAMP** in DApp itself
+* **ENS** is used to eliminate remembering/stroing addresses.
+* **Polygon** which is Layer-2 network has very low gas fee and hogh transaction speed.
+
+&nbsp;&nbsp;&nbsp;&nbsp;These will definitely help bypass all the hurdles for any user who wants to enter into Blockchain DApps and Crypto. **Ramp** ensures smooth onboarding for new users to buy crypto and surf through the decentralised world.
+
+## How I built it
+&nbsp;&nbsp;&nbsp;&nbsp;Entire DApp frontend is built using mainly JS and HTML. Smart Contracts are written in Solidity and deployed through Polygon network for high scalability. ENS is used for eliminating addresses and finally best feature **Ramp** is used to buy crypto in Servvify itself without going out exchanges like Coinbase, Binance.
+
    
