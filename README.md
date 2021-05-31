@@ -5,10 +5,14 @@
 </p>
 # Table of Contents
 * [Team Members](#team-members)
-
+* [Intro](#intro)
+* [Features](#features)
+* [Is this Newbie frinedly?](#newbie)
+* [Technologies Used](#built)
+* [Bounties](#bounty)
 # <a name="team-members"></a>Team Members
 * "P.Mohinish Teja" <marvelmohinish99@gmail.com>
-### Decentralised Application by Government to offer various public services
+# <a name="intro"></a> Decentralised Application by Government to offer various public services
 
 
 &nbsp; &nbsp; &nbsp; &nbsp;**Servvify** is a devcentralised application by government/corporations to offer various rewards, services to people using Blockchain and cryptocurrency. This DApp is designed for people of all levels of expertise, ages. 
@@ -16,7 +20,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;Blockchain and Crypto newbies can easily use this DApp without much efforts. Main bottle neck problems for crypto and blockchain mass adoption are requirements like Wallet, Huge alphanumeric address, Gas fee, Transaction speed and buying crypto in the first place. Solutions to all these key issues are addressed in this DApp thus making it **frinedly for newbies and even experienced ones**.
 <img src="img/Screenshot (1145).png" >
 
-## Features of Servvify
+#  <a name="features"></a>Features of Servvify
 &nbsp; &nbsp; &nbsp; &nbsp;Servvify is a proof of concept of how government's can introduce blockchain and crypto based applications to larger audience from different backgrounds. In this DApp specifically I have implemented 2 features for reward distribution and payments.
    - Ecogift
    - Pay
@@ -42,7 +46,7 @@
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If not, He can buy some crypto right there using **Ramp**<br>
  
  
-## How is this Newbie friendly?
+# <a name="newbie"></a> How is this Newbie friendly?
 &nbsp;&nbsp;&nbsp;&nbsp;**Clean and minimalistic UI with best sketches is used to build frontend. This ensures new users doesn't get lost or feel too complex to use Servvify**. Utmost care is taken for Clean and best UI possible. Any User from age of 13 to age of 70 can easily use Servvify. But first let me tell you some problems any user has when entering into Crypto and Blockchain.
 * Buy Crypto in firstplace using Fiat
 * Remember/Store complex Addresses
@@ -57,7 +61,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;These will definitely help bypass all the hurdles for any user who wants to enter into Blockchain DApps and Crypto. **Ramp** ensures smooth onboarding for new users to buy crypto and surf through the decentralised world.
 <img src="img/Screenshot (1153).png" height="50%" width="50%">
 
-## How I built it
+#  <a name="built"></a>How I built it
 &nbsp;&nbsp;&nbsp;&nbsp;Entire DApp frontend is built using mainly JS and HTML. Smart Contracts are written in Solidity and deployed through Polygon network for high scalability. ENS is used for eliminating addresses and finally best feature **Ramp** is used to buy crypto in Servvify itself without going out exchanges like Coinbase, Binance.
 **Technologies used **
 
@@ -72,7 +76,7 @@
 <img src="img/Screenshot (1146).png" height="50%" width="50%">
 
 
-### 0xHack Bounties
+#  <a name="bounty"></a> 0xHack Bounties
 
 1. [🏆 0xHack Adoption Bounty: 💲3000 DAI - Best Crypto-Newbie Friendly App](https://gitcoin.co/issue/RampNetwork/0xHack/1/100025724)
 2. [🏆 0xHack Adoption Bounty: 💲1000 DAI - 2nd Best Crypto-Newbie Friendly App](https://gitcoin.co/issue/RampNetwork/0xHack/2/100025725)
