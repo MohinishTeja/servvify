@@ -51,6 +51,7 @@
 * **Polygon** which is Layer-2 network has very low gas fee and hogh transaction speed.
 
 &nbsp;&nbsp;&nbsp;&nbsp;These will definitely help bypass all the hurdles for any user who wants to enter into Blockchain DApps and Crypto. **Ramp** ensures smooth onboarding for new users to buy crypto and surf through the decentralised world.
+<img src="img/Screenshot (1153).png" >
 
 ## How I built it
 &nbsp;&nbsp;&nbsp;&nbsp;Entire DApp frontend is built using mainly JS and HTML. Smart Contracts are written in Solidity and deployed through Polygon network for high scalability. ENS is used for eliminating addresses and finally best feature **Ramp** is used to buy crypto in Servvify itself without going out exchanges like Coinbase, Binance.
