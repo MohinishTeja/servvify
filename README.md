@@ -1,7 +1,8 @@
 # Servvify #
 <center>
-<a href="https://youtu.be/rbFLfRmnEDk"><strong>View Proof of Concept Demo</strong></a>
+<a href="https://youtu.be/rbFLfRmnEDk"><strong>View Servvify Demo</strong></a>
 </center>
+
 ### Decentralised Application by Government to offer various public services
 
 
@@ -51,11 +52,19 @@
 ## How I built it
 &nbsp;&nbsp;&nbsp;&nbsp;Entire DApp frontend is built using mainly JS and HTML. Smart Contracts are written in Solidity and deployed through Polygon network for high scalability. ENS is used for eliminating addresses and finally best feature **Ramp** is used to buy crypto in Servvify itself without going out exchanges like Coinbase, Binance.
 **Technologies used **
-* Polygon
-* Ramp
-* ENS
-* JS
-* Solidity
+
+| Technology                                 | Uses                                                               |
+| ------------------------------------------ | ------------------------------------------------------------------ |
+| 1. Polygon                                 | 1. Scalable network for executing transactions                     |
+| 2. Ramp                                    | Onboarding new users to buy crypto in DApp itself                  |
+| 3. ENS                                     | Eliminates remembering comples addresses for new users             |
+| 4. UI                                      | Simple and Minimalistic UI with clear instructions across Servvify |
 
 
+### 0xHack Bounties
+
+1. [🏆 0xHack Adoption Bounty: 💲3000 DAI - Best Crypto-Newbie Friendly App](https://gitcoin.co/issue/RampNetwork/0xHack/1/100025724)
+2. [🏆 0xHack Adoption Bounty: 💲1000 DAI - 2nd Best Crypto-Newbie Friendly App](https://gitcoin.co/issue/RampNetwork/0xHack/2/100025725)
+3. [🏆 0xHack Adoption Bounty: 5x 💲200 DAI - Application Using Ramp](https://gitcoin.co/issue/RampNetwork/0xHack/3/100025726)
+4. 
    
