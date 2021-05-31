@@ -1,7 +1,8 @@
 # Servvify #
-<center>
-<a href="https://youtu.be/IkA6MlfwPXM"><strong>View Servvify Demo</strong></a>
-</center>
+<centre>
+<a href="https://youtu.be/IkA6MlfwPXM"><strong>Video Demo of Servvify</strong></a>
+<a href="https://mohinishteja.github.io/servvify/"><strong>DApp- Servvify</strong></a>
+</centre>
 
 ### Decentralised Application by Government to offer various public services
 
