@@ -103,8 +103,10 @@
 
 
 #  <a name="gallery"></a> Gallery
-<img src="img/Screenshot (1152).png" height="40%" width="40%" align="center" >
-<img src="img/Screenshot (1146).png" height="40%" width="40%" align="center">
-<img src="img/Screenshot (1150).png" height="40%" width="40%" align="center">
-<img src="img/Screenshot (1149).png" height="40%" width="40%" align="center">
+<p align="center">
+<img src="img/Screenshot (1152).png" height="40%" width="40%" >
+<img src="img/Screenshot (1146).png" height="40%" width="40%" >
+<img src="img/Screenshot (1150).png" height="40%" width="40%" >
+<img src="img/Screenshot (1149).png" height="40%" width="40%" >
+ </p>
 
