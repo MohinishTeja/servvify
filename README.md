@@ -107,8 +107,6 @@
 <img src="img/Screenshot (1146).png" height="40%" width="40%">
 <img src="img/Screenshot (1150).png" height="40%" width="40%" >
 <img src="img/Screenshot (1149).png" height="40%" width="40%">
-<p float="left">
-  <img src="img/Screenshot (1152).png" width="100" />
-  <img src="img/Screenshot (1146).png" width="100" /> 
-  
-</p>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![hi](img/Screenshot (1150).png)  |  ![hi](img/Screenshot (1150).png)
