@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Servvify</title>
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+
+<script src="https://cdn.jsdelivr.net/npm/@ramp-network/ramp-instant-sdk@2.3.0/dist/ramp-instant-sdk.umd.js" integrity="sha256-heFylj/fcCZffQpQuqUmrk1e08vdaGcpw0w9mWGnbz4=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script> 
+<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script src="scripts/pay.js"></script>
+<link rel="stylesheet" href="styles/pay.css">
+
+</head>
+
+<!-- partial:index.partial.html -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+<nav class="navbar navbar-default">
+        <div class="container-fluid">
+            
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                
+                <img src="img/mu1.png" height="50px" width="50px" style="margin-top:-2%;">
+                <a class="navbar-brand" href="index.html" style="padding-left: 39%; margin-top: -37%;"><h2>Servvify</h2></a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="pay.html">Pay</a></li>
+                    <li><a href="claim.html">Claim</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+
+    <div class="master">
+        <div class="slave">
+
+            <div class="slave_head">
+                <div class="slave_head_1">
+                    <div class="slave_head_2">
+                        <h2 class="slave_head_3">Pay</h2>
+                        <div class="salve_head_4">Pay using crypto in an instant</div>
+                    </div>
+                </div>
+            </div>
+        
+
+
+        <div class="slave_body">
+            <div class="slave_body_1">
+                <h4 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Recharge your Metro Rail Card</h4>
+                <div class="slave_body_2">
+                    <div class="slave_body_3">
+                        <div class="slave_body_4">
+                            <div class="slave_body_5">
+                                <div class="slave_body_6">
+                                    Address
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slave_body_7">
+                            <input class="input_1" id="address"  placeholder="0x000....">
+                        </div>
+                    </div>
+                </div>
+
+
+                <!--
+                <div class="slave_body_3">
+                    <div class="slave_body_4">
+                        <div class="slave_body_5">
+                            <div class="slave_body_6">
+                                Type
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="slave_body_7">
+                        <input class="input_1" id="type" inputmode="decimal" placeholder="0x000....">
+                    </div>
+                </div>
+            
+
+            <div class="slave_body_3">
+                <div class="slave_body_4">
+                    <div class="slave_body_5">
+                        <div class="slave_body_6">
+                            Weight
+                        </div>
+                    </div>
+                </div>
+
+                <div class="slave_body_7">
+                    <input class="input_1" id="weight" inputmode="decimal" placeholder="0x000....">
+                </div>
+            </div>
+        </div>
+    </div>
+    -->
+    <div class="slave_button">
+        <button class="button_submit" id="btn1" onclick=" myFunction(); getb();">Verify!</button>
+    </div>
+
+    <div class="stayout" id="stayout" style="display: none;">
+
+
+        
+        <h4 style="margin-top:0; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-weight: 800;" >Bill - 1.85 Token</h4>
+
+        <div class="slave_body_3">
+            <div class="slave_body_4">
+                <div class="slave_body_5">
+                    <div class="slave_body_6">
+                        Balance
+                    </div>
+                </div>
+            </div>
+
+            <div class="slave_body_7">
+                <input class="input_1" id="type" inputmode="decimal" placeholder="0x000....">
+            </div>
+        </div>
+    
+    
+    <h4 id="datass" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"></h4>
+    
+    <button type="button" id="buy-with-ramp-button" class="button_submit1" styles="color=white;">Buy with Ramp</button>
+
+    <div class="slave_button">
+        <button class="button_submit btn-signin" id="btn1" onclick="payf();">Pay</button>
+    </div>
+    </div>
+
+
+<div id="status"></div>
+</div>
+</div>
+
+</div>
+</div>
+
+
+
+    <!--- Start Ramp on button click -->
+    <script type="application/javascript">
+        const startRamp = () => {
+            new rampInstantSdk.RampInstantSDK({
+                hostAppName: 'servvify',
+                hostLogoUrl:'https://cdn-images-1.medium.com/max/2600/1*nqtMwugX7TtpcS-5c3lRjw.png',
+                variant:'auto',
+                url: 'https://ri-widget-staging.firebaseapp.com/',
+                hostApiKey: 'cx5rohmr6bfeqbhcadf6ak7hruhboqq73b6da49j',
+                userAddress: '0x8E381898f5ed1Ce23e09F1D16375721E44dABa09',
+                userEmailAddress: 'marvelmohinish99@gmail.com',
+                
+
+
+            })
+            .on('*', (event) => console.log(event))
+            .show();
+        }
+        document.querySelector('#buy-with-ramp-button').addEventListener('click', startRamp);
+    </script>
+
+    
+
+
+
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
+</body>
+</html>
