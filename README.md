@@ -1,8 +1,23 @@
-# Servvify #
-<p align="centre">
-<a href="https://youtu.be/IkA6MlfwPXM"><strong>Video Demo of Servvify</strong></a> &nbsp;&nbsp;
-<a href="https://mohinishteja.github.io/servvify/"><strong>DApp- Servvify</strong></a>
+<p align="center">
+
+
+  <h3 align="center">Servvify</h3>
+
+  <p align="center">
+    Decentralised rewards and payments application for all Users
+    <br />
+    <a href="https://github.com/MohinishTeja/servvify"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://youtu.be/IkA6MlfwPXM">View Demo</a>
+    ·
+    <a href="https://mohinishteja.github.io/servvify/">View DApp</a>
+  </p>
 </p>
+
+
+
+
 # Table of Contents
 * [Team Members](#team-members)
 * [Intro](#intro)
@@ -10,8 +25,10 @@
 * [Is this Newbie frinedly?](#newbie)
 * [Technologies Used](#built)
 * [Bounties](#bounty)
+* 
 # <a name="team-members"></a>Team Members
 * "P.Mohinish Teja" <marvelmohinish99@gmail.com>
+
 # <a name="intro"></a> Decentralised Application by Government to offer various public services
 
 
