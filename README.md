@@ -25,9 +25,9 @@
 * [Is this Newbie frinedly?](#newbie)
 * [Technologies Used](#built)
 * [Bounties](#bounty)
-* 
+* [Gallery](#gallery)
 # <a name="team-members"></a>Team Members
-* "P.Mohinish Teja" <marvelmohinish99@gmail.com>
+* P.Mohinish Teja <marvelmohinish99@gmail.com>
 
 # <a name="intro"></a> Decentralised Application by Government to offer various public services
 
@@ -89,14 +89,18 @@
 | 3. ENS                                     | Eliminates remembering comples addresses for new users             |
 | 4. UI                                      | Simple and Minimalistic UI with clear instructions across Servvify |
 
-<img src="img/Screenshot (1152).png" height="50%" width="50%" >
-<img src="img/Screenshot (1146).png" height="50%" width="50%">
-
 
 #  <a name="bounty"></a> 0xHack Bounties
 
 1. [🏆 0xHack Adoption Bounty: 💲3000 DAI - Best Crypto-Newbie Friendly App](https://gitcoin.co/issue/RampNetwork/0xHack/1/100025724)
 2. [🏆 0xHack Adoption Bounty: 💲1000 DAI - 2nd Best Crypto-Newbie Friendly App](https://gitcoin.co/issue/RampNetwork/0xHack/2/100025725)
 3. [🏆 0xHack Adoption Bounty: 5x 💲200 DAI - Application Using Ramp](https://gitcoin.co/issue/RampNetwork/0xHack/3/100025726)
-4. [Best use of Polygon Scalability](https://gitcoin.co/issue/maticnetwork/matic-bounties/21/100025715)
-5. [🏆0xHack Bounty: ENS Will Award $150 In ETH To Each Of The Five Best Projects To Use ENS](https://gitcoin.co/issue/EthWorks/hackathons/4/100025749)
+4. [🏆 Best use of Polygon Scalability](https://gitcoin.co/issue/maticnetwork/matic-bounties/21/100025715)
+5. [🏆 0xHack Bounty: ENS Will Award $150 In ETH To Each Of The Five Best Projects To Use ENS](https://gitcoin.co/issue/EthWorks/hackathons/4/100025749)
+
+
+#  <a name="gallery"></a> Gallery
+<img src="img/Screenshot (1152).png" height="40%" width="40%" >
+<img src="img/Screenshot (1146).png" height="40%" width="40%">
+<img src="img/Screenshot (1150).png" height="40%" width="40%" >
+<img src="img/Screenshot (1149).png" height="40%" width="40%">
