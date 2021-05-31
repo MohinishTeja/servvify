@@ -26,7 +26,7 @@
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - User enters his address( but difficult for newbies. this is where we introduce ENS)<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - Enters weight and type of waste(manual currently but can be automated in real world deployment).<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - Gets Paid!<br>
- <img src="img/Screenshot (1147).png" >
+ <img src="img/Screenshot (1147).png" height="50%" width="50%">
   
 # Pay
 &nbsp; &nbsp; &nbsp; &nbsp;People can use the rewards claimed from Ecogift or their own crypto tokens to pay for various services offered by government. This can bring mass adoption among people. In this project we'll specifically use a example of **Recharging Metro Rail Card**
@@ -51,7 +51,7 @@
 * **Polygon** which is Layer-2 network has very low gas fee and hogh transaction speed.
 
 &nbsp;&nbsp;&nbsp;&nbsp;These will definitely help bypass all the hurdles for any user who wants to enter into Blockchain DApps and Crypto. **Ramp** ensures smooth onboarding for new users to buy crypto and surf through the decentralised world.
-<img src="img/Screenshot (1153).png" >
+<img src="img/Screenshot (1153).png" height="50%" width="50%">
 
 ## How I built it
 &nbsp;&nbsp;&nbsp;&nbsp;Entire DApp frontend is built using mainly JS and HTML. Smart Contracts are written in Solidity and deployed through Polygon network for high scalability. ENS is used for eliminating addresses and finally best feature **Ramp** is used to buy crypto in Servvify itself without going out exchanges like Coinbase, Binance.
@@ -64,5 +64,5 @@
 | 3. ENS                                     | Eliminates remembering comples addresses for new users             |
 | 4. UI                                      | Simple and Minimalistic UI with clear instructions across Servvify |
 
-<img src="img/Screenshot (1152).png" >
-<img src="img/Screenshot (1146).png" >
+<img src="img/Screenshot (1152).png"height="50%" width="50%" >
+<img src="img/Screenshot (1146).png" height="50%" width="50%">
