@@ -104,9 +104,9 @@
 
 #  <a name="gallery"></a> Gallery
 <p align="center">
-<img src="img/Screenshot (1152).png" height="45%" width="45%" >
-<img src="img/Screenshot (1146).png" height="45%" width="45%" >
-<img src="img/Screenshot (1150).png" height="45%" width="45%" >
-<img src="img/Screenshot (1149).png" height="45%" width="45%" >
+<img src="img/Screenshot (1152).png" height="60%" width="60%" >
+<img src="img/Screenshot (1146).png" height="60%" width="60%" >
+<img src="img/Screenshot (1150).png" height="60%" width="60%" >
+<img src="img/Screenshot (1149).png" height="60%" width="60%" >
 </p>
 
