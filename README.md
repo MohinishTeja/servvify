@@ -60,7 +60,8 @@
  <p align="center">
  <img src="img/Screenshot (1147).png" height="60%" width="60%">
   </p>
-## Pay 
+
+# Pay 
 &nbsp; &nbsp; &nbsp; &nbsp;People can use the rewards claimed from Ecogift or their own crypto tokens to pay for various services offered by government. This can bring mass adoption among people. In this project we'll specifically use a example of **Recharging Metro Rail Card**
 
 
