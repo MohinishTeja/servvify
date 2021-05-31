@@ -18,7 +18,7 @@
    
 &nbsp; &nbsp; &nbsp; &nbsp;But people will be reluctant to dump categorically. This is where we can reward them some crypto so that they can feel like this little act can help them earn something. Government can provide several services, paying bills option with this reward which brings lot of People onboard. Everything is fine but how do we reward them quickly, without change in earnings in middle? This is where **Smart Contracts** come in. I have included a smart contract to automate reward distribution once User dumps categorically. This can be observed in Video.
    
- &nbsp; &nbsp; &nbsp; &nbsp;Flow of this shall be<br>
+ &nbsp; &nbsp; &nbsp; &nbsp;**Flow of this shall be**<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - User enters his address( but difficult for newbies. this is where we introduce ENS)<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - Enters weight and type of waste(manual currently but can be automated in real world deployment).<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - Gets Paid!<br>
@@ -27,7 +27,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;People can use the rewards claimed from Ecogift or their own crypto tokens to pay for various services offered by government. This can bring mass adoption among people. In this project we'll specifically use a example of **Recharging Metro Rail Card**
 
 
- &nbsp; &nbsp; &nbsp; &nbsp;Flow of this shall be<br>
+ &nbsp; &nbsp; &nbsp; &nbsp;**Flow of this shall be**<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - User enters his address( but difficult for newbies. this is where we introduce ENS)<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If Balance is sufficient he can directly pay.<br>
  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; - If not, He can buy some crypto right there using **Ramp**<br>
